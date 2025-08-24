@@ -30,22 +30,22 @@ Check out the live demo: [Portfolio Link](#)
 
 ## 📁 Project Structure
 
-   ```
-   vanna-portfolio/
-   ├── index.html
-   ├── assets/
-   │   ├── css/
-   │   │   └── style.css
-   │   ├── js/
-   │   │   └── script.js
-   │   ├── images/
-   │   │   ├── profile.jpg
-   │   │   ├── project-1.jpg
-   │   │   └── project-2.jpg
-   │   └── icons/
-   │       └── logo.svg
-   └── README.md
-   ```
+
+      vanna-portfolio/
+      ├── index.html
+      ├── assets/
+      │   ├── css/
+      │   │   └── style.css
+      │   ├── js/
+      │   │   └── script.js
+      │   ├── images/
+      │   │   ├── profile.jpg
+      │   │   ├── project-1.jpg
+      │   │   └── project-2.jpg
+      │   └── icons/
+      │       └── logo.svg
+      └── README.md
+
 
 ## 🛠️ Technologies Used
 
