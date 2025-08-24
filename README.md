@@ -3,11 +3,11 @@
 ```markdown
 # Vanna Khat - Portfolio Website
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Vanna_Khat-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+      ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Vanna_Khat-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)
+      ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A modern, responsive portfolio website for Vanna Khat, an IT professional and programmer. This portfolio showcases skills, projects, and provides a way to get in touch.
 
